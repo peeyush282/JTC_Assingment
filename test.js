@@ -6,6 +6,8 @@
 /* Step1 */
 
 // Sort the numbers with the help of merge sorting because the complexity of merge sort in all the cases is O(nlog(n)
+// ---------- Space complexity of program O(n) ------//
+// ---------- TIme complexity of program O(nlog(n)) ------//
 
 /* Step2 */
 
